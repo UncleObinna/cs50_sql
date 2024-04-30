@@ -1,0 +1,1 @@
+SELECT "title", "season", "topic", "air_date" FROM "episodes" WHERE "air_date" LIKE '2007%' OR "air_date" LIKE '2008%';
