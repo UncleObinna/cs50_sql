@@ -1,4 +1,4 @@
-# [cs50 Introduction to Databases with SQL](https://cs50.harvard.edu/python/2022/)
+# [cs50 Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2024/)
 
 ## My solution to the problem sets
 Repo will be updated as I review the course and solve the problem sets.
