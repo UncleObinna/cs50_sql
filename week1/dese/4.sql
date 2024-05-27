@@ -1,0 +1,1 @@
+SELECT "city", COUNT(type) FROM "districts" WHERE type = 'Public School District' GROUP BY "city" ORDER BY COUNT(type) DESC, "city" LIMIT 10;
