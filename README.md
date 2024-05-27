@@ -8,3 +8,8 @@ Repo will be updated as I review the course and solve the problem sets.
 - [Normals](/week0/normals/)
 - [Players](/week0/players/)
 - [Views](/week0/views/)
+
+### [Problem set 1](https://cs50.harvard.edu/sql/2024/psets/1/)
+- [Dese](/week1/dese/)
+- [Moneyball](/week1/moneyball/)
+- [Packages](/week1/packages/)
